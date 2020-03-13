@@ -8,7 +8,7 @@ The idea is to have a Donkey Kong version that selects each board randomly: a ra
 
 The selection of each board is random without knowing what it selected before. It is even possible that you have the same board again after completing it.
 
-To give an impression this is the order of played boards of one of the played test runs:
+To give an impression this is the order of played boards of one of the test runs:
 
 Rivets L2 - Pies L3 - Barrels L5 - Springs L5 - Rivets L3 - Barrels L2 - Springs L5 - Pies L3 - Rivets L5 - Barrels L3 - Pies L5 - Barrels L5 - Pies L3 - Pies L5 - Springs L5 - Barrels L1 - Pies L4 - Springs L5 - Springs L3 - Rivets L2 - Rivets L3 - Springs L3.
 
