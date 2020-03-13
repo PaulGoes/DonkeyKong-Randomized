@@ -13,7 +13,7 @@ Rivets L2 - Pies L3 - Barrels L5 - Springs L5 - Rivets L3 - Barrels L2 - Springs
 
 The randomly selected board is shown in the level progress screen:
 
-![DKC Level Progress Screen](https://github.com/PaulGoes/DonkeyKong-Championship/blob/master/Progress%20Screen%20v101.jpg?raw=true)
+![DKC Level Progress Screen]()
 
 The Level is indicated in the upper right corner: L=1, L=2, L=3, L=4 and L=5.
 The screen is indicated by the number of Goofy Kongs: 1=Barrels, 2=Pies, 3=Springs, 4=Rivets.
