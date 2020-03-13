@@ -18,6 +18,7 @@ The randomly selected board is shown in the level progress screen:
 
 - The Level is indicated in the upper right corner: L=1, L=2, L=3, L=4 and L=5.
 - The screen is indicated by the number of Goofy Kongs: 1=Barrels, 2=Pies, 3=Springs, 4=Rivets.
+- So the random selected board of the above screen is Rivets L3.
 
 Normally the overall progress in the game is shown by the level. But in this game that is of no use because the level is randomly chosen between 1 and 5. To show the progress a randomization count is displayed that counts the number of performed randomizations.
 
