@@ -21,17 +21,17 @@ To get a more interesting randomization for skilled Donkey kong Players, the ran
 | Screen  | Probability  |
 | ------- |:------------:|
 | Barrels | 50 %         |
-| Pies    | 25 %         |
-| Springs | 12½ %        |
+| Pies    | 12½ %         |
+| Springs | 25 %        |
 | Rivets  | 12½ %        |
 
 The randomly selected board is shown in the level progress screen:
 
 ![DKC Level Progress Screen](https://github.com/PaulGoes/DonkeyKong-Randomized/blob/master/Do%20You%20Feel%20Lucky.jpg?raw=true)
 
-- The Level is indicated in the upper right corner: L=1, L=2, L=3, L=4 and L=5.
+- The Level is indicated in the upper right corner: L=01, L=02, L=03, L=04 and L=05.
 - The screen is indicated by the number of Goofy Kongs: 1=Barrels, 2=Pies, 3=Springs, 4=Rivets.
-- So the random selected board of the above screen is Springs L4.
-- The game doesn't select boards that are not in the original game: Pies L1, Springs L1 and Pies L2.
+- So the random selected board of the above screen is Springs L=04.
+- The game doesn't select boards that are not in the original game: Pies L=01, Springs L=01 and Pies L=02.
 
 Normally the overall progress in the game is shown by the level. But in this game that is of no use because the level is randomly chosen between 1 and 5. To show the progress a randomization count is displayed that counts the number of performed randomizations.
