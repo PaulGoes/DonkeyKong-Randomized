@@ -8,7 +8,15 @@ The idea is to have a Donkey Kong version that selects each board randomly: a ra
 
 The selection of each board is random without knowing what it selected before. It is even possible that you have the same board again after completing it.
 
-The randomization doesn't distribute the levels and screens evenly. The randomization algorithm results in the following probabilities:
+To get a more interesting randomization for skilled Donkey kong Players, the randomization doesn't distribute the levels and screens evenly. The used randomization algorithm results in the following distribution:
+
+| Level   | Probability  |
+| ------- |:------------:|
+| 01      | 3½ %         |
+| 02      |  9 %         |
+| 03      | 25 %         |
+| 04      | 25 %         |
+| 05      | 37½ %        |
 
 | Screen  | Probability  |
 | ------- |:------------:|
