@@ -35,3 +35,5 @@ The randomly selected board is shown in the level progress screen:
 - The game doesn't select boards that are not in the original game: Pies L=01, Springs L=01 and Pies L=02.
 
 Normally the overall progress in the game is shown by the level. But in this game that is of no use because the level is randomly chosen between 1 and 5. To show the progress a randomization count is displayed that counts the number of performed randomizations.
+
+On most other emulators (e.g. WolfMame) you can play this game by replacing the original dkong.zip by this Reverse version of the dkong.zip. You have to start the emulator without checksum checking (in WolfMame by starting it from the command line and specifying the romname).
